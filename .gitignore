@@ -1,0 +1,19 @@
+# Datos locales de WhatsApp: sesiones, mensajes y credenciales.
+# Nunca deben subirse a un repositorio.
+datos/
+store/
+*.db
+*.db-shm
+*.db-wal
+.bridge-token
+
+# Binarios compilados
+*.exe
+
+# Respaldos de configuración
+*.respaldo-*
+claude_desktop_config.json
+
+# Sistema
+.DS_Store
+Thumbs.db
